@@ -1,0 +1,39 @@
+body
+{
+	background: url(minions.jpg) repeat-y 100% 0;
+  margin: 0;
+	padding: 1em 120px 1em 1em;
+	
+}
+p
+{
+	font-family: arial, helvetica, sana-serif;
+	font-size: 80%;
+	line-height: 140%;
+}
+#introduction
+{
+	font-family: time, "Times New Roman", serif;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	font-size: 110%;
+	color: #900;
+}
+.introduction1 {
+	background-color: green;
+	color: white;
+	padding: 30px;
+}
+
+.introduction2 {
+	background-color: yellow;
+	color: black;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+
